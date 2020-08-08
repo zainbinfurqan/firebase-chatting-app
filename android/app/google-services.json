@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594281553921",
+    "firebase_url": "https://fir-project-zain-ahmed.firebaseio.com",
+    "project_id": "fir-project-zain-ahmed",
+    "storage_bucket": "fir-project-zain-ahmed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594281553921:android:dec7b74a3abd74a107a000",
+        "android_client_info": {
+          "package_name": "com.mytestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594281553921-89pbj7if2iq7n8igoa3ffu30pi0vgttu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0vGsxgYWuXejbwq40LazNo5q7n5Rya1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594281553921-l833l2ekk7f3isg4s8rj08qgaa9ttcih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
